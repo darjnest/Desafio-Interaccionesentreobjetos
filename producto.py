@@ -4,12 +4,15 @@ class Producto:
         self.__precio = precio
         self.__stock = max(0, stock)
 
+    @property
     def nombre(self):
         return self.__nombre
 
+    @property
     def precio(self):
         return self.__precio
 
+    @property
     def stock(self):
         return self.__stock
 
