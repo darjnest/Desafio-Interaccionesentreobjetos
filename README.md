@@ -52,7 +52,9 @@ Participas en un proyecto de emprendimiento que consiste en una aplicación móv
 
 .
 ├── producto.py # Definición de la clase Producto
+
 ├── tienda.py # Definición de las clases de tiendas
+
 └── programa.py # Lógica principal del programa
 
 ## Uso
