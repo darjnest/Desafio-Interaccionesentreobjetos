@@ -50,7 +50,6 @@ Participas en un proyecto de emprendimiento que consiste en una aplicación móv
 
 ## Estructura de Archivos
 
-.
 ├── producto.py # Definición de la clase Producto
 
 ├── tienda.py # Definición de las clases de tiendas
